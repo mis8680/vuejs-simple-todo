@@ -4,22 +4,18 @@
 
 - Use vue-cli for scaffolding (Command line tool)
 - Store a list into localStorage
-- Add / Complete task
+- Add / Complete a task
 
-## Build Setup
+## Instruction
 
 ``` bash
-# install dependencies
-npm install
+1. clone the repository
 
-# serve with hot reload at localhost:8080
-npm run dev
+2. install dependencies
+> npm install
 
-# build for production with minification
-npm run build
+3. run dev server
+> npm run dev
 
-# build for production and view the bundle analyzer report
-npm run build --report
+4. open your favorite browser and visit localhost:8080
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
